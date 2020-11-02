@@ -1,0 +1,12 @@
+[] navigate to myProjects
+[] create folder with project name
+[] navigate into folder
+[] git init
+[] go to GitHub and create new repository
+[] copy ssh
+[] add remote to my local folder
+[] create a README file
+[] git add
+[] git commit
+[] git push
+[] code .
