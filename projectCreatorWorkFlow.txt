@@ -1,7 +1,7 @@
-[] navigate to myProjects
-[] create folder with project name
-[] navigate into folder
-[] git init
+[X] navigate to project folder
+[X] create folder with project name
+[X] navigate into folder
+[X] git init
 [] go to GitHub and create new repository
 [] copy ssh
 [] add remote to my local folder
