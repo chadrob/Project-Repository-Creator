@@ -10,3 +10,4 @@
 [] git commit
 [] git push
 [] code .
+[] move a majority of code from .my_custom_commands.sh to a new bash file located in the project folder.
