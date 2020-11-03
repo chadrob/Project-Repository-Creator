@@ -4,3 +4,5 @@
 - logs into GitHub.com and creates a new repository,
 - adds remote to local repository,
 - makes initial push to GitHub repository.
+
+* projectCreator.sh must be added to your .bashrc file.
