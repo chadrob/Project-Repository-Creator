@@ -5,4 +5,4 @@
 - adds remote to local repository,
 - makes initial push to GitHub repository.
 
-* projectCreator.sh must be added to your .bashrc file.
+<strong>projectCreator.sh must be added to your .bashrc file.</strong>
