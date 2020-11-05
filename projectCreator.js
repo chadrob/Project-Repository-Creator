@@ -22,8 +22,8 @@ const myProject = "testing123"; // process.argv[2];
   ]);
 
   // login
-  await page.type("#login_field", "robertsonchad1@gmail.com");
-  await page.type("#password", "Cr1556442");
+  await page.type("#login_field", "FAKE_EMAIL");
+  await page.type("#password", "FAKE_PASSWORD");
   await Promise.all([
     page.waitForNavigation(),
     page.click(
